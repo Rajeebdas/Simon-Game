@@ -2,7 +2,7 @@
 
 A modern, neon-themed implementation of the classic Simon memory game with enhanced visual effects and interactive features.
 
-![Neon Simon Game](https://img.shields.io/badge/Neon-Simon-00ff9d?style=for-the-badge&logo=game-controller&logoColor=white)
+![Neon Simon Game](simon-game-funweb.netlify.app)
 
 ## 🌟 Features
 
